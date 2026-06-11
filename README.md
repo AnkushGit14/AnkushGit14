@@ -22,8 +22,8 @@
   <a href="https://www.hackerrank.com/AnkushGit14" target="_blank">
     <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank"/>
   </a>&nbsp;
-  <a href="https://ankushgit14.github.io/ankush-portfolio/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio%20Website-FF6B35?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio Website"/>
+  <a href="https://ankush-portfolio-gd.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio%20Website-FF6B35?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio Website"/>
   </a>
 </p>
 
@@ -285,8 +285,8 @@ class AnkushKumarJaiswal:
 > Beyond data science, I'm a **Cinematic Visual Designer** — creating event identities, merchandise, posters, and motion graphics for 12+ departmental teams at NIT Raipur.
 
 <p align="center">
-  <a href="https://ankushgit14.github.io/ankush-portfolio/" target="_blank">
-    <img src="https://img.shields.io/badge/🌐%20Live%20Portfolio%20Website-FF6B35?style=for-the-badge&logoColor=white" alt="Portfolio Website"/>
+  <a href="https://ankush-portfolio-gd.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐%20Live%20Portfolio%20Website-FF6B35?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio Website"/>
   </a>&nbsp;
   <a href="https://github.com/AnkushGit14/ankush-portfolio" target="_blank">
     <img src="https://img.shields.io/badge/Repo-ankush--portfolio-181717?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio Repo"/>
