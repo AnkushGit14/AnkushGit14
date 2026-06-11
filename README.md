@@ -21,6 +21,9 @@
   </a>&nbsp;
   <a href="https://www.hackerrank.com/AnkushGit14" target="_blank">
     <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank"/>
+  </a>&nbsp;
+  <a href="https://ankushgit14.github.io/ankush-portfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio%20Website-FF6B35?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio Website"/>
   </a>
 </p>
 
@@ -274,6 +277,39 @@ class AnkushKumarJaiswal:
   </a>
   <img src="https://img.shields.io/badge/Microsoft-Career%20Essentials%20in%20AI-0078D4?style=for-the-badge&logo=microsoft&logoColor=white"/>
 </p>
+
+---
+
+## 🎨 Graphic Design Portfolio
+
+> Beyond data science, I'm a **Cinematic Visual Designer** — creating event identities, merchandise, posters, and motion graphics for 12+ departmental teams at NIT Raipur.
+
+<p align="center">
+  <a href="https://ankushgit14.github.io/ankush-portfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐%20Live%20Portfolio%20Website-FF6B35?style=for-the-badge&logoColor=white" alt="Portfolio Website"/>
+  </a>&nbsp;
+  <a href="https://github.com/AnkushGit14/ankush-portfolio" target="_blank">
+    <img src="https://img.shields.io/badge/Repo-ankush--portfolio-181717?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio Repo"/>
+  </a>&nbsp;
+  <a href="https://www.behance.net/ankushkumarjai1" target="_blank">
+    <img src="https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white" alt="Behance"/>
+  </a>
+</p>
+
+<table>
+  <tr>
+    <td align="center"><img src="https://img.shields.io/badge/Event%20Branding-Techfest%20AAVARTAN-e8c547?style=flat-square"/></td>
+    <td align="center"><img src="https://img.shields.io/badge/Merchandise-Apparel%20Mockups-FF6B35?style=flat-square"/></td>
+    <td align="center"><img src="https://img.shields.io/badge/Music%20Posters-Dark%20Editorial-8B5CF6?style=flat-square"/></td>
+    <td align="center"><img src="https://img.shields.io/badge/Video%20Editing-Reels%20%26%20Motion-3B82F6?style=flat-square"/></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://img.shields.io/badge/50%2B%20Branded%20Graphics-Produced-success?style=flat-square"/></td>
+    <td align="center"><img src="https://img.shields.io/badge/12%2B%20Dept%20Teams-Directed-blue?style=flat-square"/></td>
+    <td align="center"><img src="https://img.shields.io/badge/3.5%2B%20Years-Experience-orange?style=flat-square"/></td>
+    <td align="center"><img src="https://img.shields.io/badge/2.9K%2B-Digital%20Imprint-purple?style=flat-square"/></td>
+  </tr>
+</table>
 
 ---
 
