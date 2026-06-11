@@ -1,7 +1,13 @@
-<!-- Header Banner with Typing Effect -->
+<!-- Capsule Render Animated Waving Header Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:1D4ED8&height=250&section=header&text=Ankush%20Kumar%20Jaiswal&fontSize=42&fontColor=ffffff&desc=Data%20Scientist%20%7C%20Analytics%20Engineer&descSize=18&descAlignY=62&theme=dark" alt="Header Banner" />
+</p>
+
+<!-- Typing SVG Subheading -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=32&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Ankush+Kumar+Jaiswal;Data+Scientist+%26+Analytics+Engineer;Credit+%26+Fraud+Risk+Apprentice;NIT+Raipur+Undergrad" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=24&pause=1000&color=2563EB&center=true&vCenter=true&width=600&lines=Credit+%26+Fraud+Risk+Apprentice;Analytics+Engineer+%26+Data+Scientist;NIT+Raipur+Undergraduate" alt="Typing SVG" />
   
+  <!-- Social Profiles & Stats Counter -->
   <p align="center">
     <a href="https://linkedin.com/in/ankush-jaiswal-nitrr"><img src="https://img.shields.io/badge/LinkedIn-Ankush%20Jaiswal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
     <a href="mailto:thisisankushjaiswal@gmail.com"><img src="https://img.shields.io/badge/Email-thisisankushjaiswal-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
@@ -9,7 +15,7 @@
   </p>
   
   <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=AnkushGit14&color=3B82F6&style=flat-square&label=Profile+Views" alt="Profile Views"/>
+    <img src="https://komarev.com/ghpvc/?username=AnkushGit14&color=2563eb&style=flat-square&label=Profile+Views" alt="Profile Views"/>
   </p>
 </div>
 
@@ -19,7 +25,7 @@
 
 I build highly structured relational databases, automated ETL extraction pipelines, and advanced analytical models utilizing Python and SQL. My focus is on translating complex, multi-dimensional datasets into actionable business KPIs and enterprise-grade data infrastructure rather than simple notebooks.
 
-- 🎓 **Education:** Undergraduate Student at **National Institute of Technology (NIT), Raipur** (B.Tech, 2022 - 2026)
+- 🎓 **Education:** Final-year undergraduate at **National Institute of Technology (NIT), Raipur** (B.Tech, 2022 - 2026)
 - 💼 **Experience:** Research Intern at **IIT Kanpur** (SURGE Fellowship, Top ~1% national selection)
 - 🎯 **Target Roles:** Credit & Fraud Risk Apprentice, Data Scientist, Analytics Engineer, Data Analyst
 
@@ -42,26 +48,37 @@ I build highly structured relational databases, automated ETL extraction pipelin
 
 ## 🛠️ Technical Skill Stack
 
-### 💻 Languages & Databases
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,postgres,mysql,sqlite&theme=dark" alt="Languages and Databases" />
-  </a>
-</p>
-
-### 📊 Data Science, Analytics & BI
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=numpy,pandas,scikitlearn,jupyter,powerbi,tableau&theme=dark" alt="Data Science and BI" />
-  </a>
-</p>
-
-### ⚙️ Developer Tools & Workflows
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,html,css,js,react,vite,tailwind&theme=dark" alt="Workflows and Frontend" />
-  </a>
-</p>
+<table style="width: 100%; border: none;">
+  <tr>
+    <td style="width: 33%; vertical-align: top; border: none;">
+      <strong>💻 Languages & DBs</strong><br><br>
+      <img src="https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54" alt="Python" />
+      <img src="https://img.shields.io/badge/SQL-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQL" /><br>
+      <img src="https://img.shields.io/badge/postgresql-4169e1?style=flat-square&logo=postgresql&logoColor=white" alt="Postgres" />
+      <img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" /><br>
+      <img src="https://img.shields.io/badge/sqlite-003b57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" />
+      <img src="https://img.shields.io/badge/duckdb-FFF?style=flat-square&logo=duckdb&logoColor=black" alt="DuckDB" />
+    </td>
+    <td style="width: 33%; vertical-align: top; border: none;">
+      <strong>📊 Data Science & BI</strong><br><br>
+      <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
+      <img src="https://img.shields.io/badge/numpy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" /><br>
+      <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
+      <img src="https://img.shields.io/badge/jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter" /><br>
+      <img src="https://img.shields.io/badge/PowerBI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI" />
+      <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" alt="Tableau" />
+    </td>
+    <td style="width: 33%; vertical-align: top; border: none;">
+      <strong>⚙️ Workflows & Web</strong><br><br>
+      <img src="https://img.shields.io/badge/git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+      <img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /><br>
+      <img src="https://img.shields.io/badge/vscode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+      <img src="https://img.shields.io/badge/streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit" /><br>
+      <img src="https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB" alt="React" />
+      <img src="https://img.shields.io/badge/tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind" />
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -83,9 +100,9 @@ I build highly structured relational databases, automated ETL extraction pipelin
   <img src="https://img.shields.io/badge/Schema-9%20Tables%20(Star)-red?style=flat-square"/>
 </p>
 
-*   **Business Context:** Solved customer retention, logistics SLA breakdowns, and seller tiering for Brazil's largest marketplace.
-*   **Implementation:** Engineered a 9-table star schema. Wrote advanced SQL queries using CTEs, complex Joins, and Cohort analysis to model RFM customer segmentation and retention heatmaps.
-*   **Business Impact:** Quantified a **1.72 variance in satisfaction index** directly caused by logistics SLA delivery failures (reviews dropping from 4.23 to 2.51 out of 5).
+- **Business Context:** Solved customer retention, logistics SLA breakdowns, and seller tiering for Brazil's largest marketplace.
+- **Implementation:** Engineered a 9-table star schema. Wrote advanced SQL queries using CTEs, complex Joins, and Cohort analysis to model RFM customer segmentation and retention heatmaps.
+- **Business Impact:** Quantified a **1.72 variance in satisfaction index** directly caused by logistics SLA delivery failures (reviews dropping from 4.23 to 2.51 out of 5).
 
 ---
 
@@ -97,9 +114,9 @@ I build highly structured relational databases, automated ETL extraction pipelin
   <img src="https://img.shields.io/badge/Scale-3K%20Customers-orange?style=flat-square"/>
 </p>
 
-*   **Business Context:** Tackled customer retention, loan risk assessment, and product cross-selling for a retail bank managing $1.5B+ in deposits.
-*   **Implementation:** Evaluated transaction trends, customer lifecycle patterns, and credit distributions using SQLite/SQL queries. Segmented risk levels in Power BI.
-*   **Business Impact:** Mapped credit limits against risk profiles, recommending behavioral signals (deposit movements, product mix) over weak demographic variables.
+- **Business Context:** Tackled customer retention, loan risk assessment, and product cross-selling for a retail bank managing $1.5B+ in deposits.
+- **Implementation:** Evaluated transaction trends, customer lifecycle patterns, and credit distributions using SQLite/SQL queries. Segmented risk levels in Power BI.
+- **Business Impact:** Mapped credit limits against risk profiles, recommending behavioral signals (deposit movements, product mix) over weak demographic variables.
 
 ---
 
@@ -111,9 +128,9 @@ I build highly structured relational databases, automated ETL extraction pipelin
   <img src="https://img.shields.io/badge/Scale-150K+%20Registrations-orange?style=flat-square"/>
 </p>
 
-*   **Business Context:** Analyzed state-wide EV registrations to evaluate manufacturer growth rates, range anxiety parameters, and clean fuel incentive eligibility.
-*   **Implementation:** Conducted exploratory data analysis on 150K+ records from Washington State DOL using Python and SQL. Built a detailed interactive dashboard in Power BI.
-*   **Business Impact:** Identified Tesla's 45.8% market share dominance, calculated a 144% improvement in average battery range over 11 years, and highlighted a critical policy gap where only 41.8% of registered EVs qualify as CAFV-eligible.
+- **Business Context:** Analyzed state-wide EV registrations to evaluate manufacturer growth rates, range anxiety parameters, and clean fuel incentive eligibility.
+- **Implementation:** Conducted exploratory data analysis on 150K+ records from Washington State DOL using Python and SQL. Built a detailed interactive dashboard in Power BI.
+- **Business Impact:** Identified Tesla's 45.8% market share dominance, calculated a 144% improvement in average battery range over 11 years, and highlighted a critical policy gap where only 41.8% of registered EVs qualify as CAFV-eligible.
 
 ---
 
@@ -125,9 +142,9 @@ I build highly structured relational databases, automated ETL extraction pipelin
   <img src="https://img.shields.io/badge/Scope-70%20Countries-red?style=flat-square"/>
 </p>
 
-*   **Business Context:** Analyzed global compensation data to evaluate remote work salary gaps, earning potential across roles, and hiring patterns by country.
-*   **Implementation:** Audited 9,355 verified salary records (2020-2023) using Python and SQLite.
-*   **Business Impact:** Determined that specialized roles (Data Architect, ML Engineer) command the highest median salaries ($155K+), tracked the post-pandemic decline of remote roles to 36.7%, and mapped US compensation benchmarks.
+- **Business Context:** Analyzed global compensation data to evaluate remote work salary gaps, earning potential across roles, and hiring patterns by country.
+- **Implementation:** Audited 9,355 verified salary records (2020-2023) using Python and SQLite.
+- **Business Impact:** Determined that specialized roles (Data Architect, ML Engineer) command the highest median salaries ($155K+), tracked the post-pandemic decline of remote roles to 36.7%, and mapped US compensation benchmarks.
 
 ---
 
@@ -138,9 +155,9 @@ I build highly structured relational databases, automated ETL extraction pipelin
   <img src="https://img.shields.io/badge/API-yfinance%20&%20arch-green?style=flat-square"/>
 </p>
 
-*   **Business Context:** Capture variance clustering and predict equity market volatility in the Indian financial sector to mitigate portfolio risk.
-*   **Implementation:** Modeled 2 years of daily index returns using Python `arch` and `yfinance`. capture variance clustering and fat-tailed return distributions.
-*   **Business Impact:** Generated 5-day-ahead volatility forecasts, segmenting them into HIGH, NORMAL, and LOW risk regimes to establish automated hedging parameters.
+- **Business Context:** Capture variance clustering and predict equity market volatility in the Indian financial sector to mitigate portfolio risk.
+- **Implementation:** Modeled 2 years of daily index returns using Python `arch` and `yfinance`. capture variance clustering and fat-tailed return distributions.
+- **Business Impact:** Generated 5-day-ahead volatility forecasts, segmenting them into HIGH, NORMAL, and LOW risk regimes to establish automated hedging parameters.
 
 ---
 
@@ -152,9 +169,9 @@ I build highly structured relational databases, automated ETL extraction pipelin
   <img src="https://img.shields.io/badge/Scheduling-Cron-red?style=flat-square"/>
 </p>
 
-*   **Business Context:** Automated live tech metric aggregates tracking for trending domain technologies and topic engagement.
-*   **Implementation:** Created an Object-Oriented Python scraping pipeline. Handled string sanitization through memory-optimized Regular Expressions, saving outputs into a persistent SQLite database with strict `UPSERT` conflict handling.
-*   **Business Impact:** Built a self-healing pipeline checking for data duplicates and loading clean metrics, ready for downstream analysis dashboards.
+- **Business Context:** Automated live tech metric aggregates tracking for trending domain technologies and topic engagement.
+- **Implementation:** Created an Object-Oriented Python scraping pipeline. Handled string sanitization through memory-optimized Regular Expressions, saving outputs into a persistent SQLite database with strict `UPSERT` conflict handling.
+- **Business Impact:** Built a self-healing pipeline checking for data duplicates and loading clean metrics, ready for downstream analysis dashboards.
 
 ---
 
@@ -165,8 +182,8 @@ I build highly structured relational databases, automated ETL extraction pipelin
   <img src="https://img.shields.io/badge/Motion-Framer%20Motion-pink?style=flat-square&logo=framer"/>
 </p>
 
-*   **Business Context:** Visual portfolio interface demonstrating data science, quantitative models, and data engineering projects.
-*   **Implementation:** Built using a component-driven React pipeline. Features a physics-based morphing gooey theme switcher dropdown and scroll-linked holographic portrait fragment assembly.
+- **Business Context:** Visual portfolio interface demonstrating data science, quantitative models, and data engineering projects.
+- **Implementation:** Built using a component-driven React pipeline. Features a physics-based morphing gooey theme switcher dropdown and scroll-linked holographic portrait fragment assembly.
 
 ---
 
