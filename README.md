@@ -282,7 +282,7 @@ class AnkushKumarJaiswal:
 
 ## 🎨 Graphic Design Portfolio
 
-> Beyond data science, I'm a **Cinematic Visual Designer** — creating event identities, merchandise, posters, and motion graphics for 12+ departmental teams at NIT Raipur.
+> Beyond data science, I'm a **Professional Graphic Designer** — creating event identities, merchandise, posters, and motion graphics for 12+ departmental teams at NIT Raipur.
 
 <p align="center">
   <a href="https://ankush-portfolio-gd.netlify.app/" target="_blank">
